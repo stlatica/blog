@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  app:
+    image: jekyll/minimal:4.1.0
+    command: jekyll serve --force_polling --port 4567
+    volumes:
+      # - ./pages/jekyll:Z
+      - type: bind
+        source: $PWD
+        target: /srv/jekyll
+    ports:
+      - 4567:4567
