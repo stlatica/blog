@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+こんにちは！ Stlatica Tech Blog へようこそ。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+我々が開発している Activity Pub 準拠予定の SNS, "Stlatica" についての情報を発信していきます。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 名前の由来
 
+Stlatica は
 
-[jekyll-organization]: https://github.com/jekyll
+- ブログ要素 ⇒ 文章を貯めておく ⇒ 保管所 ⇒ Storage（英語）
+- SNS 要素 ⇒ 話，会話，おしゃべり ⇒ Plática（プラティカ、スペイン語）
+
+を掛け合わせた造語です。
+
+Twitter 等の SNS 要素に加えて、ブログなどコミュニティでの運用に役立つ機能を搭載していきたいことから名付けられています。
+
+---
+
+発足は 2023 年夏で、メンバーの多忙も重なってまだリリースすら出来ていない状況ですが、開発は 1 年以上ずっと進められています。
+
+スローペースですが、これからも途切れることなく開発を進めていきますので、どうぞ完成まで見守って頂ければ幸いです！
